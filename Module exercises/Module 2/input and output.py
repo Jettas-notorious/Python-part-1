@@ -1,5 +1,5 @@
-a=5.0
-b=10.5
+a=float(input("Input a:"))
+b=float(input("Input b:"))
 
 answer=a+b
 print("The answer is =", answer)
